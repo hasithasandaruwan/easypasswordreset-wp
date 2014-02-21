@@ -7,7 +7,8 @@ This script is intended to be used as a last resort by WordPress administrators 
 
 ### Installation
 
-Put the file into root path.
+Put the file into root path. that's all....
+
 ex:http://www.yourdomain.com/passwordreset.php
 
 ### Screenshot
