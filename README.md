@@ -13,4 +13,5 @@ ex:http://www.yourdomain.com/passwordreset.php
 
 ### Screenshot
 
-![ScreenShot](http://imgur.com/ol2DDwu)
+![ScreenShot](http://imgur.com/ol2DDwu.jpg)
+
