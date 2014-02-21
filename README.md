@@ -15,3 +15,7 @@ ex:http://www.yourdomain.com/passwordreset.php
 
 ![ScreenShot](http://imgur.com/ol2DDwu.jpg)
 
+* * *
+
+Copyright (c) 2014 Hasitha Sandaruwan
+
